@@ -5,7 +5,8 @@ body {
 
 section {
   height: 500px;
-  padding-bottom: 150px;
+  padding-top: 10px;
+  padding-bottom: 60px;
 }
 
 .top-banner {
@@ -55,16 +56,18 @@ button {
   background: #ecd8d0;
   width: 25%;
   margin-left: 7.5%;
-  height: 280px;
+  height: 300px;
   border-radius: 7px;
+  padding: 2px 3px;
 }
 #middlebox {
   float: left;
   background: #a3d9c9;
   width: 25%;
   margin-left: 5%;
-  height: 280px;
+  height: 300px;
   border-radius: 7px;
+  padding: 2px 3px;
 }
 #rightbox {
   float: right;
@@ -72,8 +75,9 @@ button {
   width: 25%;
   margin-left: 5%;
   margin-right: 7.5%;
-  height: 280px;
-  border-radius: 7px
+  height: 300px;
+  border-radius: 7px;
+  padding: 2px 3px;
 }
 
 #leftbox img{
@@ -87,8 +91,8 @@ button {
 }
 
 #rightbox img{
-  width 100px;
-  height: 120px;
+  width 80px;
+  height: 100px;
 }
 
 .half-width h3{
