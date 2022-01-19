@@ -110,3 +110,9 @@ footer{
   text-align: center;
   padding-top: 5px ;
 }
+
+div{
+  -webkit-box-sizing: border-box; 
+  -moz-box-sizing: border-box;    
+  box-sizing: border-box;      
+ }
